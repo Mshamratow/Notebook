@@ -1,0 +1,10 @@
+C:\Users\Name\source\repos\Dz_3\Блокноттт\Блокноттт\bin\Debug\Блокноттт.exe.config
+C:\Users\Name\source\repos\Dz_3\Блокноттт\Блокноттт\bin\Debug\Блокноттт.exe
+C:\Users\Name\source\repos\Dz_3\Блокноттт\Блокноттт\bin\Debug\Блокноттт.pdb
+C:\Users\Name\source\repos\Dz_3\Блокноттт\Блокноттт\obj\Debug\Блокноттт.csproj.AssemblyReference.cache
+C:\Users\Name\source\repos\Dz_3\Блокноттт\Блокноттт\obj\Debug\Блокноттт.Properties.Resources.resources
+C:\Users\Name\source\repos\Dz_3\Блокноттт\Блокноттт\obj\Debug\Блокноттт.csproj.GenerateResource.cache
+C:\Users\Name\source\repos\Dz_3\Блокноттт\Блокноттт\obj\Debug\Блокноттт.csproj.CoreCompileInputs.cache
+C:\Users\Name\source\repos\Dz_3\Блокноттт\Блокноттт\obj\Debug\Блокноттт.exe
+C:\Users\Name\source\repos\Dz_3\Блокноттт\Блокноттт\obj\Debug\Блокноттт.pdb
+C:\Users\Name\source\repos\Dz_3\Блокноттт\Блокноттт\obj\Debug\Блокноттт.Блокнот.resources
